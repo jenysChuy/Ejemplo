@@ -115,26 +115,7 @@ int main() {
                     std::cout << std::endl << numero << " es impar\n";
                 break;
             }
-            case 5: {
-                std::cout << "Tablas de multiplicar." << std::endl;
-                int numero;
-                do {
-                    std::cout << "Ingrese cualquier numero: ";
-                    std::cin >> numero;
-                } while ((numero < 1) || (numero > 10));
-                for (int i = 1; i <= 10; i++) {
-                    std::cout << numero << " * " << i << " = " << numero * i << std::endl;
-                }
-                std::cout << "\n\n";
-                break;
-            }
-            case 6: {
-                std::cout << "Saliendo del programa..." << std::endl;
-                break;
-            }
-            default: {
-                std::cout << "Opción no válida. Por favor, selecciona una opción válida." << std::endl;
-                break;
+
             }
         }
 
