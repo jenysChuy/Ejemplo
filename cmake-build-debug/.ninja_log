@@ -1,0 +1,27 @@
+# ninja log v5
+1	380	7309503097278494	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+382	506	7309503098525525	Ejemplos.exe	46e82d964463d1e9
+3	333	7309503631670476	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+334	430	7309503632625554	Ejemplos.exe	46e82d964463d1e9
+3	414	7309503882114852	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+415	510	7309503883051732	Ejemplos.exe	46e82d964463d1e9
+4	417	7309505086019283	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+418	511	7309505086949304	Ejemplos.exe	46e82d964463d1e9
+3	393	7309508208748524	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+394	486	7309508209665179	Ejemplos.exe	46e82d964463d1e9
+4	476	7309510993236804	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+476	570	7309510994155312	Ejemplos.exe	46e82d964463d1e9
+4	436	7309511518400019	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+437	526	7309511519287241	Ejemplos.exe	46e82d964463d1e9
+3	462	7309516279717221	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+462	566	7309516280750333	Ejemplos.exe	46e82d964463d1e9
+4	416	7309517013862236	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+417	521	7309517014884722	Ejemplos.exe	46e82d964463d1e9
+3	431	7309517952456163	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+431	523	7309517953346034	Ejemplos.exe	46e82d964463d1e9
+3	464	7309520385000950	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+464	560	7309520385952721	Ejemplos.exe	46e82d964463d1e9
+4	473	7309521787330458	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+474	567	7309521788230555	Ejemplos.exe	46e82d964463d1e9
+3	386	7309522349880121	CMakeFiles/Ejemplos.dir/main.cpp.obj	bac460dedc4961ee
+386	481	7309522350820880	Ejemplos.exe	46e82d964463d1e9

@@ -1,0 +1,3 @@
+C:/Users/Janeth/CLionProjects/Ejemplos/cmake-build-debug/CMakeFiles/Ejemplos.dir
+C:/Users/Janeth/CLionProjects/Ejemplos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Janeth/CLionProjects/Ejemplos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
